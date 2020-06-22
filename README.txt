@@ -1,7 +1,3 @@
-Thesis Titled : Dynamic Routing Agreement Based Capsule Network Architecture 
-Submited by : Eashan Dash, CED15I043
-Guide : Dr. B. Sivaselvan 
-
 Program - Different GAN models implementation - 
           1) Vanila GAN, 
           2) Auxiliary Classifier GAN (ACGAN), 
